@@ -16,4 +16,4 @@ cd Q-1 (Use this command with the name of the file you want to access the code i
 g++ -o Q-1.exe 1.cpp (you can do this for all the cpp files)
 ```
 
-MADE BY <i> <br> Burak Deniz Karakaya (221504036) </i>
+MADE BY ; <i> <br> Burak Deniz Karakaya (221504036) </i>
