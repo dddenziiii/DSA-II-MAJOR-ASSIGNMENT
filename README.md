@@ -10,6 +10,9 @@ Just open the command line and paste these commands in order:
 git clone https://github.com/dddenziiii/DSA-II-MAJOR-ASSIGNMENT.git
 ```
 ```
+cd DSA-II-MAJOR-ASSIGNMENT
+```
+```
 cd Q-1 (Use this command with the name of the file you want to access the code in.)
 ```
 ```
